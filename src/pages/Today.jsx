@@ -357,9 +357,6 @@ export default function Today(props) {
             })}
           </ul>
         </div>
-        <div className="today-glance-showMore-bottom">
-          <a href="">Show More</a>
-        </div>
       </ContainerGlance>
       <ContainerGlance
         glanceTitle="Patient List"
